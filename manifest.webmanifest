@@ -1,0 +1,16 @@
+{
+  "name": "PDL CourtData · Direct",
+  "short_name": "CourtData",
+  "description": "Statistiques de basket en direct, sans vidéo ; le match se retrouve ensuite sur le PC.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1B2343",
+  "theme_color": "#1B2343",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
